@@ -1,0 +1,6 @@
+{
+  "name": "Next Generation Clinic",
+  "description": "Modern medical clinic landing page with multi-layer window parallax scrolling, interactive pedestals for Proctology, Surgery, Phlebology, and Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
